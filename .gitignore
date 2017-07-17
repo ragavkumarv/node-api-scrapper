@@ -1,3 +1,12 @@
 # Created by .ignore support plugin (hsz.mobi)
 /.idea
 node_modules/
+.idea/inspectionProfiles/
+.idea/markdown-navigator.xml
+.idea/markdown-navigator/
+.idea/misc.xml
+.idea/modules.xml
+.idea/node-api-scrapper.iml
+.idea/vcs.xml
+.idea/workspace.xml
+
